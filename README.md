@@ -17,12 +17,12 @@ The goal of this repository is to compile papers about outpainting in medical im
 [Jun. 2024] \
 [[paper](https://arxiv.org/abs/2406.04769)]
 
-**LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching** \ 
+**LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching** \
 *Xing Yao, Runxuan Yu, Nick DiSanto, Ehsan Khodapanah Aghdam, Kanyifeechukwu Jane Oguine, Daiwei Lu, Ange Lou, Jiacheng Wang, Dewei Hu, Gabriel A Arenas, Baris Oguz, Alison Marie Pouch, Nadav Schwartz, Brett Byram, Ipek Oguz* \
 [Mar. 2025] \
 [[paper](https://openreview.net/forum?id=EyaeQLYCZP)]
 
-**Efficient Image-to-Image Schrodinger Bridge for CT Field of View Extension** \ 
+**Efficient Image-to-Image Schrodinger Bridge for CT Field of View Extension** \
 *Zhenhao Li, Long Yang, Xiaojie Yin, Haijun Yu, Jiazhou Wang, Hongbin Han, Weigang Hu, Yixing Huang* \
 [Aug. 2025] \
 [[paper](https://arxiv.org/abs/2508.11211)]
