@@ -1,4 +1,4 @@
-# Medical Image Outpainting
+# Generative AI in Medical Imaging
 The goal of this repository is to compile papers about outpainting in medical imaging with a focus on diffusion. Current research in this field is somewhat limited, so I've included some GAN research as well as inpainting. Thank you to all of the original authors for their work.
 
 Outpainting:
