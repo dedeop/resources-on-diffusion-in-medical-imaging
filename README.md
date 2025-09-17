@@ -15,8 +15,6 @@ Outpainting:
 Inpainting: 
 | Title | Authors | Description |
 | ----- | ------- | ----------- |
-| (https://ieeexplore.ieee.org/abstract/document/8682677) |  | desc |
-| (https://ieeexplore.ieee.org/abstract/document/9191207) |  | desc |
-| (https://arxiv.org/abs/2506.23038) |  | desc |
-| (https://arxiv.org/abs/2411.10686) |  | desc |
-| (https://arxiv.org/abs/2406.02477) |  | desc |
+| [Adversarial Inpainting of Medical Image Modalities](https://ieeexplore.ieee.org/abstract/document/8682677) | Karim Armanious, Youssef Mecky, Sergios Gatidis, Bin Yang | Uses a GAN model to inpaint degraded areas of medical images, both MRI and CT scans |
+| [ipA-MedGAN: Inpainting of Arbitrary Regions in Medical Imaging](https://ieeexplore.ieee.org/abstract/document/9191207) | Karim Armanious, Vijeth Kumar, Sherif Abdulatif, Tobias Hepp, Sergios Gatidis, Bin Yang | Proposes a framework in which models can inpaint arbitrary regions of a scan rather than needing to specify a region of interest |
+| [Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion](https://arxiv.org/abs/2406.02477) | Colin Hansen, Simas Glinskis, Ashwin Raju, Micha Kornreich, JinHyeong Park, Jayashri Pawar, Richard Herzog, Li Zhang, Benjamin Odry | Proposes inpainting on more complex structures by using latent diffusion |
