@@ -10,13 +10,16 @@ Outpainting:
 | [Efficient Image-to-Image Schrodinger Bridge for CT Field of View Extension](https://arxiv.org/abs/2508.11211) | Zhenhao Li, Long Yang, Xiaojie Yin, Haijun Yu, Jiazhou Wang, Hongbin Han, Weigang Hu, Yixing Huang | Proposes a framework to extend the FOV of CT scans in a less computationally demanding way |
 | [echoGAN: Extending the field of view in Transthoracic Echocardiography through conditional GAN-based outpainting](https://www.sciencedirect.com/science/article/pii/S016926072500286X) | Matej Gazda, Jakub Gazda, Samuel Kadoury, Robert Kanasz, Peter Drotar | Proposes a GAN model used to expand the FOV in cardiovascular ultrasounds | 
 
-https://dl.acm.org/doi/10.5555/AAI28029340
 
-https://www.sciencedirect.com/science/article/abs/pii/S0969806X21002851
-
-https://openreview.net/pdf?id=4rFAhgrA0lA (might not apply)
-
-Other Diffusion Models:
+Inpainting: 
 | Title | Authors | Description |
 | ----- | ------- | ----------- |
-| (might not apply) [Fast Controllable Diffusion Models for Undersampled MRI Reconstruction](https://ieeexplore.ieee.org/abstract/document/10635891 ) | Wei Jiang, Zhuang Xiong, Feng Liu, Nan Ye, Hongfu Sun | Proposes an approach for accelerating unsupervised diffusion models in the context of MRI reconstruction |
+https://ieeexplore.ieee.org/abstract/document/8682677
+
+https://ieeexplore.ieee.org/abstract/document/9191207
+
+https://arxiv.org/abs/2506.23038
+
+https://arxiv.org/abs/2411.10686
+
+https://arxiv.org/abs/2406.02477
