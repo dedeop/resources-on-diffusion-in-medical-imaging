@@ -32,6 +32,7 @@ The goal of this repository is to compile papers about outpainting in medical im
 [Sep. 2025] \
 [[paper](https://www.sciencedirect.com/science/article/pii/S016926072500286X)]
 
+----------------------------------------------------------------------------------
 
 ### Inpainting
 **Adversarial Inpainting of Medical Image Modalities** \
