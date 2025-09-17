@@ -1,7 +1,10 @@
 # Medical Image Outpainting
 Compilation of papers covering both inpainting and outpainting in medical imaging
 
-https://www.sciencedirect.com/science/article/abs/pii/S1361841523001123?via%3Dihub - Proposes a method in which a scan is artificially truncated so that the ground truth is known for training in order to expand the FOV of low dose CT scans
+
+| Title | Description |
+| ----- | ----------- |
+| [Body composition assessment with limited field-of-view computed tomography: A semantic image extension perspective](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001123?via%3Dihub) | Proposes a method in which a scan is artificially truncated so that the ground truth is known for training in order to expand the FOV of low dose CT scans |
 
 https://arxiv.org/abs/2406.04769 - Proposes a diffusion model which expands the FOV on truncated CT scans
 
