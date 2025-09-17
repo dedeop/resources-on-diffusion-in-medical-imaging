@@ -14,8 +14,6 @@ https://dl.acm.org/doi/10.5555/AAI28029340
 
 https://www.sciencedirect.com/science/article/abs/pii/S0969806X21002851
 
-https://arxiv.org/abs/2508.11211
-
 https://www.sciencedirect.com/science/article/pii/S016926072500286X
 
 https://openreview.net/pdf?id=4rFAhgrA0lA (might not apply)
