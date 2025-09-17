@@ -39,7 +39,7 @@ The goal of this repository is to compile papers about outpainting in medical im
 [Oct. 2018] \
 [[paper](https://ieeexplore.ieee.org/abstract/document/8682677)]
 
-**ipA-MedGAN: Inpainting of Arbitrary Regions in Medical Imaging**
+**ipA-MedGAN: Inpainting of Arbitrary Regions in Medical Imaging** \
 *Karim Armanious, Vijeth Kumar, Sherif Abdulatif, Tobias Hepp, Sergios Gatidis, Bin Yang* \
 [Oct. 2019] \
 [[paper](https://ieeexplore.ieee.org/abstract/document/9191207)]
