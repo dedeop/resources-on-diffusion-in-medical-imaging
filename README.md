@@ -1,6 +1,8 @@
 # Generative AI in Medical Imaging
 The goal of this repository is to compile papers about outpainting in medical imaging with a focus on diffusion. Current research in this field is somewhat limited, so I've included some GAN research as well as inpainting. Thank you to all of the original authors for their work.
 
+----------------------------------------------------------------------------------
+
  ### Outpainting
 **Body composition assessment with limited field-of-view computed tomography: A semantic image extension perspective** \
 *Kaiwen Xu, Thomas Li, Mirza S. Khan, Riqiang Gao, Sanja L. Antic, Yuankai Huo, Kim L. Sandler, Fabien Maldonado, Bennett A. Landman* \
