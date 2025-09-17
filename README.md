@@ -33,7 +33,7 @@ The goal of this repository is to compile papers about outpainting in medical im
 [[paper](https://www.sciencedirect.com/science/article/pii/S016926072500286X)]
 
 
-# Inpainting
+### Inpainting
 **Adversarial Inpainting of Medical Image Modalities** \
 *Karim Armanious, Youssef Mecky, Sergios Gatidis, Bin Yang* \
 [Oct. 2018] \
