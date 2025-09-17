@@ -1,5 +1,5 @@
 # Medical Image Outpainting
-Compilation of papers covering both inpainting and outpainting in medical imaging
+The goal of this repository is to compile papers about outpainting in medical imaging with a focus on diffusion. Current research in this field is somewhat limited, so I've included some GAN research as well as inpainting. Thank you to all of the original authors for their work.
 
 Outpainting:
 | Title | Authors | Description |
