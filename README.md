@@ -19,6 +19,7 @@ The goal of this repository is to compile papers about outpainting in medical im
 
 **Efficient Image-to-Image Schrodinger Bridge for CT Field of View Extension** \ 
 *Zhenhao Li, Long Yang, Xiaojie Yin, Haijun Yu, Jiazhou Wang, Hongbin Han, Weigang Hu, Yixing Huang* \ 
+[date][published] \
 [[paper](https://arxiv.org/abs/2508.11211)]
 
 **echoGAN: Extending the field of view in Transthoracic Echocardiography through conditional GAN-based outpainting** \
