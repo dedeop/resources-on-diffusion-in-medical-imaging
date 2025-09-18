@@ -24,15 +24,15 @@ The goal of this repository is to compile papers about outpainting in medical im
 [Mar. 2025] \
 [[paper](https://openreview.net/forum?id=EyaeQLYCZP)]
 
+**echoGAN: Extending the field of view in Transthoracic Echocardiography through conditional GAN-based outpainting** \
+*Matej Gazda, Jakub Gazda, Samuel Kadoury, Robert Kanasz, Peter Drotar* \
+[May 2025] \
+[[paper](https://www.sciencedirect.com/science/article/pii/S016926072500286X)]
+
 **Efficient Image-to-Image Schrodinger Bridge for CT Field of View Extension** \
 *Zhenhao Li, Long Yang, Xiaojie Yin, Haijun Yu, Jiazhou Wang, Hongbin Han, Weigang Hu, Yixing Huang* \
 [Aug. 2025] \
 [[paper](https://arxiv.org/abs/2508.11211)]
-
-**echoGAN: Extending the field of view in Transthoracic Echocardiography through conditional GAN-based outpainting** \
-*Matej Gazda, Jakub Gazda, Samuel Kadoury, Robert Kanasz, Peter Drotar* \
-[Sep. 2025] \
-[[paper](https://www.sciencedirect.com/science/article/pii/S016926072500286X)]
 
 ----------------------------------------------------------------------------------
 
