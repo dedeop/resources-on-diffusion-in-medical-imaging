@@ -39,12 +39,12 @@ The goal of this repository is to compile papers about outpainting in medical im
 ### Inpainting
 **Adversarial Inpainting of Medical Image Modalities** \
 *Karim Armanious, Youssef Mecky, Sergios Gatidis, Bin Yang* \
-[Oct. 15, 2018] [IEEE, 2019]\
+[Oct. 15, 2018] [ICASSP, 2019]\
 [[paper](https://ieeexplore.ieee.org/abstract/document/8682677)]
 
 **ipA-MedGAN: Inpainting of Arbitrary Regions in Medical Imaging** \
 *Karim Armanious, Vijeth Kumar, Sherif Abdulatif, Tobias Hepp, Sergios Gatidis, Bin Yang* \
-[Oct. 21, 2019] [IEEE, 2020]\
+[Oct. 21, 2019] [ICIP, 2020]\
 [[paper](https://ieeexplore.ieee.org/abstract/document/9191207)]
 
 **Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion** \
