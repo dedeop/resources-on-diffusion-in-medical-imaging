@@ -16,7 +16,7 @@ The goal of this repository is to compile papers about outpainting in medical im
 
 **Diffusion-based Generative Image Outpainting for Recovery of FOV-Truncated CT Images** \
 *Michelle Espranita Liman, Daniel Rueckert, Florian J. Fintelmann, Philip Müller* \
-[Jun. 7, 2024] [arXiv, 2024]\
+[Jun. 7, 2024] [MICCAI, 2024]\
 [[paper](https://arxiv.org/abs/2406.04769)]
 
 **LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching** \
